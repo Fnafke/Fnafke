@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Fnafke
 
-🎯 I'm a full-stack developer and a Computer Science student.  
+🎯 I'm a full-stack developer and a Computer Science graduate.  
 💻 I specialize in **Python**, **Java**, **TypeScript**, and enjoy working with **React** and **Next.js**.
 
 ---
